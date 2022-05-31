@@ -1,4 +1,5 @@
 # finalize-plots
+only works on laptops
 
 ## Installation
 ```bash
