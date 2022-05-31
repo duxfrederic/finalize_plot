@@ -1,16 +1,11 @@
-Installation:
+# finalize-plots
+
+## Installation
 ```bash
-pip install finalize_plot
+pip install finalize-plots
 ```
 
-Simple test: (run the installation part first to have the correct libraries installed)
-```bash
-unzip finalize_plots.zip
-cd finalize_plots/tests/
-python test.py
-```
-
-Usage:
+## Usage:
 ```python
 import matplotlib.pyplot as plt
 from finalize_plots import finalize 
