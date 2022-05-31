@@ -17,6 +17,7 @@ setup(
     install_requires=[
         "matplotlib",
         "opencv-python"
-    ]
+    ],
+    download_url="https://github.com/duxfrederic/finalize_plot/archive/refs/tags/v0.0.1.tar.gz"
 )
 
