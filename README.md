@@ -13,4 +13,5 @@ from finalize_plots import finalize
 fig = plt.figure()
 plt.plot([1,2,3],[2,3,5])
 finalize(fig)
+plt.show()
 ```
